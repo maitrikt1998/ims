@@ -94,9 +94,9 @@ define( 'WP_MAIL_SMTP_AUTH', true );
 define( 'WP_MAIL_SMTP_SECURE', 'ssl'); // Set 'tls' or 'ssl'
 define( 'WP_MAIL_SMTP_PORT', '465'); // Set port 465 for SSL, or 587 for TLS
 define( 'WP_MAIL_SMTP_HOST', 'smtp.gmail.com'); // Replace with your SMTP server
-define( 'WP_MAIL_SMTP_USER', 'maitrikt1998@gmail.com'); // Replace with your email
-define( 'WP_MAIL_SMTP_PASS', 'MaitrikT@1998'); // Replace with your email password
-define( 'WP_MAIL_FROM', 'maitrikt1998@gmail.com'); // Replace with the email you want to send from
+define( 'WP_MAIL_SMTP_USER', ''); // Replace with your email
+define( 'WP_MAIL_SMTP_PASS', ''); // Replace with your email password
+define( 'WP_MAIL_FROM', ''); // Replace with the email you want to send from
 define( 'WP_MAIL_FROM_NAME', 'Indian Massage');
 
 /* That's all, stop editing! Happy publishing. */
